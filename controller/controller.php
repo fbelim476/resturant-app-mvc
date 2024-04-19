@@ -57,14 +57,15 @@ class controller extends model
                 $mail->Subject = 'Thanks for created account with Neha Yummy Mummy Resturents will promiss provides Best Foods';
                 $mail->Body    = "<center><b><img src='https://media-cdn.tripadvisor.com/media/photo-s/19/80/3a/57/yummy.jpg' style='width:50%; height:300px'></b>
                 <br><br>
-                Hey There is the Neha yummy Mummy, <br>
-                Its' The Neha Yoummy Mummy Thanks for creating your account with Us we will promises to delivred Best Yummy Food Please Visit at once time in Our resturents
+                $name <br/>
+                Hey There is the FB yummy Mummy, <br>
+                Its' The FB Yoummy Mummy Thanks for creating your account with Us we will promises to delivred Best Yummy Food Please Visit at once time in Our resturents
                 <br><br>
                 <p><b>Resturents Address : <b> 1st Floor, Aditya Complex, Jalaram 2 Street Number 2, above Sbi Bank, <br> nr. Indira Circle, Jala Ram Nagar, Rajkot, Gujarat 360005</p>
                                 
                 <p><b><p>Hours : <b> <span style='color:green'>Open.</span>closes 7:30pm</p>
                 
-                <p><b><p>Call us  : <b> <span style='color:green'>(+91)9998003879</span></p>
+                <p><b><p>Call us  : <b> <span style='color:green'>(+91)9714883187</span></p>
                 </center>";
 
                 
